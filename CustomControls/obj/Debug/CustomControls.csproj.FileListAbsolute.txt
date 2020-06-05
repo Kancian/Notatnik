@@ -1,0 +1,13 @@
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\bin\Debug\CustomControls.dll
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\NotatkaZTytulem.g.cs
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\NotatkaZTytulem.baml
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls.g.resources
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls.pdb
+C:\Users\wojtek\source\repos\Notatnik\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache

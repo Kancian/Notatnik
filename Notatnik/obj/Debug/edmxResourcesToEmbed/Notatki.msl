@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NotatkiStoreContainer" CdmEntityContainer="NotatnikEntities">
+    <EntitySetMapping Name="Notatkis">
+      <EntityTypeMapping TypeName="Notatki.Notatki">
+        <MappingFragment StoreEntitySet="Notatki">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="tytul" ColumnName="tytul" />
+          <ScalarProperty Name="tekst" ColumnName="tekst" />
+          <ScalarProperty Name="data" ColumnName="data" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

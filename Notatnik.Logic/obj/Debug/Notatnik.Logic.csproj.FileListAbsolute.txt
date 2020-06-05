@@ -1,0 +1,12 @@
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\bin\Debug\Notatnik.Logic.dll
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\bin\Debug\Notatnik.Logic.pdb
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\obj\Debug\Notatnik.Logic.csproj.CoreCompileInputs.cache
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\obj\Debug\Notatnik.Logic.dll
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\obj\Debug\Notatnik.Logic.pdb
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\bin\Debug\Notatnik.Logic.dll.config
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\bin\Debug\EntityFramework.dll
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\bin\Debug\EntityFramework.xml
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\obj\Debug\Notatnik.Logic.csprojAssemblyReference.cache
+C:\Users\wojtek\source\repos\Notatnik\Notatnik.Logic\obj\Debug\Notatnik.Logic.csproj.CopyComplete

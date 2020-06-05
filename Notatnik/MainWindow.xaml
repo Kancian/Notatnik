@@ -1,0 +1,26 @@
+﻿<Window x:Class="Notatnik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notatnik"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Notatnik" HorizontalAlignment="Left" Height="36" Margin="10,10,0,0" VerticalAlignment="Top" Width="299" FontFamily="Stencil" FontSize="20"/>
+        <TextBox x:Name="tekst" HorizontalAlignment="Left" Height="231" Margin="10,161,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="387"/>
+        <Button x:Name="dodaj" Content="Dodaj Notatkę" HorizontalAlignment="Left" Height="33" Margin="90,74,0,0" VerticalAlignment="Top" Width="198" FontFamily="Segoe Script" Click="dodaj_Click"/>
+        <ListView x:Name="notatki" HorizontalAlignment="Left" Height="310" Margin="433,0,0,0" VerticalAlignment="Top" Width="349">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Tytul" DisplayMemberBinding="{Binding tytul}"></GridViewColumn>
+                    <GridViewColumn Header="Data" DisplayMemberBinding="{Binding data}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="wyswietl" Content="Wyświetl" HorizontalAlignment="Left" Height="43" Margin="514,336,0,0" VerticalAlignment="Top" Width="158" FontFamily="Segoe Script" Click="Wyswietl_Click"/>
+        <TextBox x:Name="tytul" HorizontalAlignment="Left" Height="31" Margin="73,125,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="324"/>
+        <Label Content="Tytuł:" HorizontalAlignment="Left" Height="33" Margin="9,123,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="-2.008,1.268"/>
+
+    </Grid>
+</Window>
